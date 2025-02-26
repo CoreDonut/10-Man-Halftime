@@ -2,6 +2,9 @@
 =====================================================================================================
 Created by: CoreDonut
 Socials:
+- tiktok.com/@coredonut
+- youtube.com/coredonut
+- twitch.tv/coredonut_
 =====================================================================================================
 Halftime voice chat for discord when playing 10 man 5v5's for csgo/cs2 since they removed halftime voicechat.
 
@@ -15,7 +18,7 @@ Invite the bot to your discord server
 6.) Repeat for Voice channel 2 for team 2.
 7.) Run the code! and test it out
 
-When you press the key 'o' you will save user data this isnt necessary to do but it makes the bot work faster
-When you press 'k' it bring everyone to the destination voice channel where you can interact for 15s (the code is a bit delayed by 10 seconds because of 
+- When you press the key 'o' you will save user data this isnt necessary to do but it makes the bot work faster
+- When you press 'k' it bring everyone to the destination voice channel where you can interact for 15s (the code is a bit delayed by 10 seconds because of 
 discords request so press it accordingly.) After 15 seconds the code will automatically bring everyone back to their channels they were in originally.
-When you press 'j' it brings everyone to the destination server until you press j again. this is so you can talk in between matches or when you're just done competeting.
+- When you press 'j' it brings everyone to the destination server until you press j again. this is so you can talk in between matches or when you're just done competeting.
