@@ -6,7 +6,9 @@ Socials:
 - youtube.com/coredonut
 - twitch.tv/coredonut_
 =====================================================================================================
+Ability to select players for 10 mans and generate random teams from selected players as well as ban maps from different pools.
 Halftime voice chat for discord when playing 10 man 5v5's for csgo/cs2 since they removed halftime voicechat.
+Discord implementation to automatically place players into discord channels based on their team and send the match data to a text channel.
 
 How to use:
 1.) Create a discord developer account and create a new bot and give it adminstrator priveleges and then copy the token (DO NOT SHARE THIS)
