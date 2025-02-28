@@ -1,0 +1,7 @@
+{
+	"TOKEN": "INSERT BOT TOKEN HERE",
+	"CHANNEL_ID": "discord text channel id",
+	"Voice1_id": "discord voice channel id for team 1",
+	"Voice2_id": "discord voice channel id for team 2",
+	"Destination_ID": "discord voice channel id for halftime chatting"
+}
