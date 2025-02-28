@@ -1,0 +1,5 @@
+{
+	"Active Duty": [ "Mirage", "Inferno", "Nuke", "Overpass", "Vertigo", "Ancient", "Anubis", "Cache", "Cobblestone", "Train", "Dust 2" ],
+	"Workshop": [ "Insertion 2", "Flick", "Fachwerk", "Stronghold", "Sandstone", "Backalley", "2015 Nuke", "Haven", "Oilrig", "Neptune", "Factory", "2017 Vertigo" ],
+	"Active but diff": [ "Inferno Night", "Rainy Dust 2", "Rainy Mirage", "Rainy Vertigo", "Dust 2 (Mirror)", "Inferno (Mirror)", "Mirage (Mirror)", "Office (Mirror)", "Nuke (Mirror)", "Prodigy", "Militia", "Vertigo 45", "Nuke 45" ]
+}
